@@ -1,0 +1,39 @@
+Change Log
+Project: Akadémiai Kiadó docker
+Version: 0.0.2
+
+Minden fontos változás ezen a projekten hozzáadásra került ehhez a file-hoz.
+
+[0.0.2] - 2021-01-13
+Added
+AK-90 CHANGE.log előkészítése
+AK-55 Amasty Automatic Related Products telepítés
+AK-47 BSSCommerce Prorder telepítés
+AK-50 Amasty Product Feed telepítés
+AK-43 Amasty Follow Up Email telepítés
+AK-53 Amasty Improved Layered Navigation telepítés
+AK-52 Amasty Elasticsearch telepítés
+AK-49 Mageplaza GTM telepítés
+AK-36 Aheadworks Sharp2, Aheadworks Sharp2 Ayden telepítés
+AK-45 Mageplaza Social Login telepítés
+AK-48 Mageplaza Facebook Pixel telepítés
+AK-98 Amasty FAQ and Product Questions telepítés
+AK-99 Magenest Banner Slider telepítés
+AK-42 Amasty Promo Banners for Magento 2 telepítés
+
+Changed
+-
+Fixed
+AK-48 Add Mageplaza Core module
+AK-36 Add Aheadworks kulcsokal az auth.json frissítése
+
+
+[0.0.1] - 2020-12-04
+Added
+AK-3 Projekt előkészítés: Magento 2.4.1 telepítés, Magento auth beállítás
+AK-68 Magento telepítés, környezet előkészítése
+
+Changed
+-
+Fixed
+-
